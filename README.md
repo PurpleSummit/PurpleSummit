@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning... python, a bit of javascript, and things here and there, such as writing techniques, French, and Spanish.
 - 💞️ I’m looking to collaborate on... mostly anything! I am always eager to lend you a hand... (as long as it's not literal * wink wink*)
 - 📫 How to reach me... I don't have any social media accounts ;-; so sorry! 😿
+- 📖 My hobbies... reading, writing, *coding*, making things, etc. etc.
 
 <!---
 PurpleSummit/PurpleSummit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
