@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PurpleSummit, aka Violet! Nice to meet y'all.
 - 👀 I’m interested in... writing fantasy, sci-fi, dystopian, and realistic fiction. Oh, and of course, coding! I want to be an AI programmer, but... sadly, I have a lot to learn before I do it. ;D
 - 🌱 I’m currently learning... python, a bit of javascript, and things here and there, such as writing techniques, French, and Spanish.
-- 💞️ I’m looking to collaborate on... mostly anything! I am always eager to lend you a hand... (as long as it's not literal *wink wink*)
+- 💞️ I’m looking to collaborate on... mostly anything! I am always eager to lend you a hand... (as long as it's not literal * wink wink*)
 - 📫 How to reach me... I don't have any social media accounts ;-; so sorry! 😿
 
 <!---
