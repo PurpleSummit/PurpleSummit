@@ -1,3 +1,2 @@
 - 👋 Salutations!
 - PurpleSummit - ISTP-T - Asian - 
-- (I don't know GitHub very well at the moment, so may need some time. ^^)
