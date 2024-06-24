@@ -1,2 +1,2 @@
 - 👋 Salutations!
-- PurpleSummit - ISTP-T - Asian - 
+- PurpleSummit
