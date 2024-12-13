@@ -1,2 +1,2 @@
-- 👋 Salutations!
-- PurpleSummit
+- 👋 Salutations
+- teenage programmer
