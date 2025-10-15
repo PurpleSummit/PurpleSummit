@@ -1,2 +1,2 @@
-- 👋 Salutations
-- teenage programmer
+High School Freshman
+Research Mind Institute
