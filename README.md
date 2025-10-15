@@ -15,19 +15,19 @@ square_list : when provided with a positive real number, it outputs a series of 
 <h2>2023</h2>
 06/27/2023 – PROJECT. Input: tuples (year, month, day). Output: days between them. [Same date = 0 days]</p>
 
-		<p>v.0.0. 06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples</p>
+		06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
 		
-		<p>v.0.1. 06/26/2023 – much more simplified with the use of tuples and for loops</p>
+		06/26/2023 – much more simplified with the use of tuples and for loops
 		
-		<p>v.0.2. 06/27/2023 – improvised version of v.0.2, but with exceptions</p>
+		06/27/2023 – improvised version of v.0.2, but with exceptions
 		
-		<p>Unit Test 11/09/2023</p>
+		Unit Test 11/09/2023
 		
-		<p>v.0.3 06/19/2024 – added some guardians so that preconditions are ensured, added comments</p>
+		06/19/2024 – added some guardians so that preconditions are ensured, added comments
 		
-		<p>06/13/2023 – outputs day of the week when provided with a date (imported module)</p>
+		06/13/2023 – outputs day of the week when provided with a date (imported module)
 		
-		<p>06/22/2023 – minimized scale; distance between two months (month, year)</p>
+		06/22/2023 – minimized scale; distance between two months (month, year)
 
 10/26/2023 – GIF converter
 
@@ -49,13 +49,13 @@ square_list : when provided with a positive real number, it outputs a series of 
 
 ??/??/2024 – PROJECT. Input: two images. Output: the second image with the same color properties (brightness, saturation, etc.) as the first
 
-	v.0.0. 3/28/2024 – opens image
+	3/28/2024 – opens image
 	
-	v.1.0. 4/22~24/2024 – made/edited a function turning rgba values into hsv values. By then, made four separate files, one for user interaction, one for reading and getting values, one to check images/values/color modes, and another for editing images. The editing file includes functions that edits brightness, contrast, saturation, and sharpness.
+	4/22~24/2024 – made/edited a function turning rgba values into hsv values. By then, made four separate files, one for user interaction, one for reading and getting values, one to check images/values/color modes, and another for editing images. The editing file includes functions that edits brightness, contrast, saturation, and sharpness.
 	
-	… 4/26/2024 – working on rescaling images
+	... 4/26/2024 – working on rescaling images
 	
-	v.2.0. 5/31/2024 – finished! Roughly. Make better.
+	5/31/2024 – finished! Roughly. Make better.
 
 06/12/2024 – Website. Archive of characters.
 
