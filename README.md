@@ -1,35 +1,10 @@
 <h1>Completed Projects</h1>
 
-<h2>Undated</h2>
-square_list : when provided with a positive real number, it outputs a series of perfect squares that are smaller or equal to the inputted number
+<h2>2025</h2>
 
-<h2>2022</h2>
-08/05/2022 – Input: decimal number. Output: base 8 equivalent. Done for MMM month in August (Math, Music, Meditation). coded for Hard Math for Elementary School by Glenn Ellison. Edited 1/27/2024
+06/02/2025 – Taylor series for sin x. Input: the angle x in degrees and n, the number of terms in the Taylor series to add together. Output: whether if sin x and the resulting sum vary by less than 0.001
 
-10/05/2022 – Weighted average. Updated on 1/30/2024.
-
-11/30/2022 – Input: two Cartesian plane points. Output: distance between the two points.
-
-12/28/2022 – HTML website
-
-<h2>2023</h2>
-06/27/2023 – PROJECT. Input: tuples (year, month, day). Output: days between them. [Same date = 0 days]</p>
-
-		06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
-		
-		06/26/2023 – much more simplified with the use of tuples and for loops
-		
-		06/27/2023 – improvised version of v.0.2, but with exceptions
-		
-		Unit Test 11/09/2023
-		
-		06/19/2024 – added some guardians so that preconditions are ensured, added comments
-		
-		06/13/2023 – outputs day of the week when provided with a date (imported module)
-		
-		06/22/2023 – minimized scale; distance between two months (month, year)
-
-10/26/2023 – GIF converter
+__ various projects related to Flask, Django, JavaScript and CS50W __
 
 <h2>2024</h2>
 
@@ -75,8 +50,34 @@ square_list : when provided with a positive real number, it outputs a series of 
 
 12/13/2024 – Research Mind Math 2024 Winter Camp website
 
-__ various projects related to Flask, Django, JavaScript and CS50W __
+<h2>2023</h2>
+06/27/2023 – PROJECT. Input: tuples (year, month, day). Output: days between them. [Same date = 0 days]</p>
 
-<h2>2025</h2>
+		06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
+		
+		06/26/2023 – much more simplified with the use of tuples and for loops
+		
+		06/27/2023 – improvised version of v.0.2, but with exceptions
+		
+		Unit Test 11/09/2023
+		
+		06/19/2024 – added some guardians so that preconditions are ensured, added comments
+		
+		06/13/2023 – outputs day of the week when provided with a date (imported module)
+		
+		06/22/2023 – minimized scale; distance between two months (month, year)
 
-06/02/2025 – Taylor series for sin x. Input: the angle x in degrees and n, the number of terms in the Taylor series to add together. Output: whether if sin x and the resulting sum vary by less than 0.001
+10/26/2023 – GIF converter
+
+
+<h2>2022</h2>
+08/05/2022 – Input: decimal number. Output: base 8 equivalent. Done for MMM month in August (Math, Music, Meditation). coded for Hard Math for Elementary School by Glenn Ellison. Edited 1/27/2024
+
+10/05/2022 – Weighted average. Updated on 1/30/2024.
+
+11/30/2022 – Input: two Cartesian plane points. Output: distance between the two points.
+
+12/28/2022 – HTML website
+
+<h2>Undated</h2>
+square_list : when provided with a positive real number, it outputs a series of perfect squares that are smaller or equal to the inputted number
