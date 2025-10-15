@@ -13,21 +13,21 @@ square_list : when provided with a positive real number, it outputs a series of 
 12/28/2022 – HTML website
 
 <h2>2023</h2>
-06/27/2023 – PROJECT. Input: tuples (year, month, day). Output: days between them. [Same date = 0 days]
+06/27/2023 – PROJECT. Input: tuples (year, month, day). Output: days between them. [Same date = 0 days]</p>
 
-		v.0.0. 06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
+		<p>v.0.0. 06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples</p>
 		
-		v.0.1. 06/26/2023 – much more simplified with the use of tuples and for loops
+		<p>v.0.1. 06/26/2023 – much more simplified with the use of tuples and for loops</p>
 		
-		v.0.2. 06/27/2023 – improvised version of v.0.2, but with exceptions
+		<p>v.0.2. 06/27/2023 – improvised version of v.0.2, but with exceptions</p>
 		
-		Unit Test 11/09/2023
+		<p>Unit Test 11/09/2023</p>
 		
-		v.0.3 06/19/2024 – added some guardians so that preconditions are ensured, added comments
+		<p>v.0.3 06/19/2024 – added some guardians so that preconditions are ensured, added comments</p>
 		
-		06/13/2023 – outputs day of the week when provided with a date (imported module)
+		<p>06/13/2023 – outputs day of the week when provided with a date (imported module)</p>
 		
-		06/22/2023 – minimized scale; distance between two months (month, year)
+		<p>06/22/2023 – minimized scale; distance between two months (month, year)</p>
 
 10/26/2023 – GIF converter
 
