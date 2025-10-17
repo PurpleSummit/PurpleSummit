@@ -67,7 +67,7 @@ __ various projects related to Flask, Django, JavaScript and CS50W __
 <h2>2023</h2>
 06/27/2023 – Returns the number of days between two given dates (inputted in tuples) [Same date = 0 days]</p>
 
-06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
+... 06/14~20/2023 – long, complicated handling of various casework (same date, same month, same year, adjacent year) with the use of tuples
 
 06/26/2023 – much more simplified with the use of tuples and for loops
 
