@@ -4,7 +4,7 @@
 
 06/02/2025 – Taylor series for sin x. Input: the angle x in degrees and n, the number of terms in the Taylor series to add together. Output: whether if sin x and the resulting sum vary by less than 0.001
 
-__ various projects related to Flask, Django, JavaScript and CS50W __
+NOTICE: Not up-to-date. 15+ projects, related to Flask, Django, JavaScript, CS50W, and CS50AI, are not recorded.
 
 <h2>2024</h2>
 
