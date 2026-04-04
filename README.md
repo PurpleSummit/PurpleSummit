@@ -1,5 +1,13 @@
 <h1>Completed Projects</h1>
 
+<h2>2026</h2>
+
+2/16/2026 - Implementation and training of a k-"nearest neighbor" classifier using L2 distance to classify, with prediction of labels for unlabeled images and cross-validation functions (BWSI)
+
+2/17/2026 - Computing deriviatives of polynomials for model training optimization through gradient descent (BWSI)
+
+2/18/2026 - Simple auto-differentiation backprop algorithm (BWSI)
+
 <h2>2025</h2>
 
 06/02/2025 – Taylor series for sin x. Input: the angle x in degrees and n, the number of terms in the Taylor series to add together. Output: whether if sin x and the resulting sum vary by less than 0.001
